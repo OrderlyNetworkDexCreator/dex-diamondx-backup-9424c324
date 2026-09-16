@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "diamondx",
+  "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "Diamondx backup",
   "VITE_BROKER_EOA_ADDRESS": "0x2e9621b9b5f79d33b3d66c34c9b54267d05558e8",
   "VITE_DISABLE_MAINNET": "false",
