@@ -1,6 +1,6 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_DEPLOYMENT_ENV": "mainnet",
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "diamondhands",
   "VITE_ORDERLY_BROKER_NAME": "DiamondX",
   "VITE_BROKER_EOA_ADDRESS": "0x2e9621b9b5f79d33b3d66c34c9b54267d05558e8",
   "VITE_DISABLE_MAINNET": "false",
@@ -28,7 +28,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/DiamondXPerps",
   "VITE_SEO_SITE_NAME": "DiamondX Perps",
   "VITE_SEO_SITE_DESCRIPTION": "A.I Powered Decentralized Perpetual Trading Platform of the Store of Value Ecosystem",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/dex-diamondx-backup-9424c324/",
+  "VITE_SEO_SITE_URL": "https://trade.diamondx.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@DiamondXPerps",
